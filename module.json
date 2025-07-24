@@ -1,0 +1,22 @@
+{
+  "name": "int-check",
+  "title": "INT Check",
+  "description": "Bi-directional sync between Foundry VTT and Discord. Share notes, messages, and RSVPs.",
+  "version": "1.0.0",
+  "author": "Chase McCuddy",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "11",
+  "license": "MPL-2.0",
+  "url": "https://github.com/yourusername/int-check",
+  "manifest": "https://raw.githubusercontent.com/yourusername/int-check/main/module.json",
+  "download": "https://github.com/yourusername/int-check/releases/latest/download/module.zip",
+  "scripts": ["int-check.js"],
+  "styles": ["styles/int-check.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ]
+}
