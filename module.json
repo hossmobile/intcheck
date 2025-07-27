@@ -10,10 +10,10 @@
   },
   "license": "MPL-2.0",
   "url": "https://github.com/hossmobile/intcheck",
-  "manifest": "https://raw.githubusercontent.com/hossmobile/int-check/main/module.json",
-  "download": "https://github.com/hossmobile/int-check/releases/latest/download/module.zip",
+  "manifest": "https://raw.githubusercontent.com/hossmobile/intcheck/main/module.json",
+  "download": "https://github.com/hossmobile/intcheck/releases/latest/download/module.zip",
   "scripts": ["dist/main.js"],
-  "styles": ["styles/int-check.css"],
+  "styles": ["styles/intcheck.css"],
   "languages": [
     {
       "lang": "en",
